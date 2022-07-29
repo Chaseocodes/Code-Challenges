@@ -1,0 +1,12 @@
+// 5 kyu code challenge
+
+
+// Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+
+
+// my answer:
+
+function pigIt(str){
+    return str.split(' ').map(x =>/[a-zA-Z]+/.test(x) ? x.slice(1)+x[0]+'ay' : x).join(' ');
+  
+   }
