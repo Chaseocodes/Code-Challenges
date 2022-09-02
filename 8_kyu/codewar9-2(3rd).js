@@ -10,3 +10,5 @@
 function getNumberFromString(s) {
     return Number(s.match(/\d/g).join(''))
  }
+
+getNumberFromString(jeff5mike8)
