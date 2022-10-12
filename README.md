@@ -1,2 +1,2 @@
 # Codewars
-This is where I am posting my completed codewars.
+This is where I am posting my completed code challenges.
