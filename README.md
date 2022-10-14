@@ -2,7 +2,7 @@
 This is where I post coding challenges that I have completed. I like to stay sharp and hone my skills as a Software Engineer!
 
 
-![alt tag](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777808/0211_JavaScript-Coding-Challenge_Luke-Social-a70614b9438520ac86c4a5eab56b6ece.png)
+![alt tag](https://media0.giphy.com/media/KmHueA88mFABT9GkkR/200.gif)
 
 ## How It's Made:
 I just add the coding challenges to Javascript files.
