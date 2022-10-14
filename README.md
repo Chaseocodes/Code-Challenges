@@ -2,7 +2,7 @@
 This is where I post coding challenges that I have completed. I like to stay sharp and hone my skills as a Software Engineer!
 
 
-![alt tag](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thedailybeast.com%2Fi-took-the-one-hour-of-code-challenge&psig=AOvVaw0VPcVEnDU2VS-P0a5dfpWj&ust=1665852702916000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCZvYiX4PoCFQAAAAAdAAAAABAE)
+![alt tag](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777808/0211_JavaScript-Coding-Challenge_Luke-Social-a70614b9438520ac86c4a5eab56b6ece.png)
 
 ## How It's Made:
 I just add the coding challenges to Javascript files.
