@@ -8,7 +8,7 @@ This is where I post coding challenges that I have completed. I like to stay sha
 I just add the coding challenges to Javascript files.
 
 ## Optimizations
-I have been getting more into Data structures and algorithms, so that is helping with making my code more efficient.  
+I have been getting more into Data structures and algorithms, so that helps make my code more efficient.  
 
 ## Lessons Learned:
 
