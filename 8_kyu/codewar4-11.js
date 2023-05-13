@@ -9,6 +9,7 @@ array = [1, 2, 3] and N = 3, but N is outside of the array, so the result is -1.
 
 
 my answer:
+
 function index(array, n){
   
     if(!array[n]){
