@@ -8,9 +8,9 @@
 
 // MY ANSWER:
 class SmallestIntegerFinder {
-    findSmallestInt(args) {
+                       findSmallestInt(args) {
       let smallest = Math.min(...args)
-      return smallest
-    }
+                       return smallest
+                  }
   }
 
