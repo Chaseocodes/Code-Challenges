@@ -19,5 +19,5 @@ function addLength(str) {
     result.push(modifiedWord);
  }
   return result
-  
+
 }
